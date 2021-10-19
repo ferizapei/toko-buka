@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="home"
+    android:id="@+id/home"
+    android:icon="@drawable/ic_baseline_home_24"/>
+    <item android:title="feed"
+        android:id="@+id/fee"
+        android:icon="@drawable/ic_feed"/>
+    <item android:title="cart"
+        android:id="@+id/cart"
+        android:icon="@drawable/ic_cart"/>
+    <item android:title="pesan"
+        android:id="@+id/pesan"
+        android:icon="@drawable/ic_pesan"/>
+    <item android:title="akun"
+        android:id="@+id/akun"
+        android:icon="@drawable/ic_user"/>
+</menu>
